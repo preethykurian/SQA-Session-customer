@@ -1,2 +1,3 @@
 int customer id, string customer name, string address, int phone numbre
 read customer,customer name, address, phone numbre
+print phone no
